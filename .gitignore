@@ -1,42 +1,65 @@
-# Python
+# ====================
+# Python bytecode
+# ====================
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 *.pytest_cache/
 
-# Virtualenv
+# ====================
+# Virtualenv (poetry or venv)
+# ====================
 .venv/
-.env.dev
-.env
 
-# Poetry
-# (If Poetry creates any cache or virtualenv metadata)
+# ====================
+# Poetry files (optional to exclude lock)
+# ====================
 poetry.lock
 
-# IDE
+# ====================
+# IDE / Editor configs
+# ====================
 .vscode/
 .idea/
 
-# OS files
+# ====================
+# OS system files
+# ====================
 .DS_Store
 Thumbs.db
 
-# Logs
+# ====================
+# Log files
+# ====================
 logs/
 *.log
 
-# doc
+# ====================
+# Documentation
+# ====================
 doc/
 
-# Build & dist
+# ====================
+# Build artifacts
+# ====================
 build/
 dist/
 *.egg-info/
 
-# Coverage
+# ====================
+# Coverage reports
+# ====================
 .coverage
 htmlcov/
 
-# Examples runtime temp
+# ====================
+# Examples temporary runtime files
+# ====================
 examples/tmp_*
+
+# ====================
+# Environment configuration files
+# ====================
+.env
+.env.dev
