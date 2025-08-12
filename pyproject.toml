@@ -3,10 +3,11 @@ name = "wp-python"
 version = "0.1.0"
 description = "A python version of wordpress rest api"
 authors = [
-    {name = "haoyue",email = "haoyue@coralera.org"}
+    { name = "haoyue", email = "haoyue@coralera.org" }
 ]
 readme = "README.md"
 requires-python = ">=3.11,<4"
+
 dependencies = [
     "httpx (>=0.28.1,<0.29.0)",
     "pydantic (>=2.11.7,<3.0.0)",
@@ -18,12 +19,13 @@ dependencies = [
     "gunicorn (>=23.0.0,<24.0.0)"
 ]
 
+[project.optional-dependencies]
+dev = [
+    "pytest >=8.4.1"
+]
+
 [tool.poetry]
-packages = [{include = "wp_python", from = "src"}]
-
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.4.1"
+packages = [{ include = "wp_python", from = "src" }]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
