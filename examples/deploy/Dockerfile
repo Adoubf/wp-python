@@ -32,7 +32,6 @@ RUN poetry install --only main --no-interaction --no-ansi
 # 复制项目源代码
 COPY src ./src
 COPY examples ./examples
-COPY doc ./doc
 COPY README.md ./README.md
 
 # 默认使用 .env（实际部署请挂载 .env 文件或通过环境变量传入）
