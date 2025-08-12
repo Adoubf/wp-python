@@ -1,0 +1,312 @@
+{
+    "changelog": {
+        "slug": "changelog",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/changelog.md"
+    },
+    "extending-the-rest-api": {
+        "slug": "extending-the-rest-api",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api.md"
+    },
+    "frequently-asked-questions": {
+        "slug": "frequently-asked-questions",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/frequently-asked-questions.md"
+    },
+    "glossary": {
+        "slug": "glossary",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/glossary.md"
+    },
+    "index": {
+        "slug": "index",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/index.md"
+    },
+    "key-concepts": {
+        "slug": "key-concepts",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/key-concepts.md"
+    },
+    "reference": {
+        "slug": "reference",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference.md"
+    },
+    "requests": {
+        "slug": "requests",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/requests.md"
+    },
+    "using-the-rest-api": {
+        "slug": "using-the-rest-api",
+        "parent": null,
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api.md"
+    },
+    "extending-the-rest-api/adding-custom-endpoints": {
+        "slug": "adding-custom-endpoints",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/adding-custom-endpoints.md"
+    },
+    "extending-the-rest-api/adding-rest-api-support-for-custom-content-types": {
+        "slug": "adding-rest-api-support-for-custom-content-types",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/adding-rest-api-support-for-custom-content-types.md"
+    },
+    "extending-the-rest-api/controller-classes": {
+        "slug": "controller-classes",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/controller-classes.md"
+    },
+    "extending-the-rest-api/modifying-responses": {
+        "slug": "modifying-responses",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/modifying-responses.md"
+    },
+    "extending-the-rest-api/routes-and-endpoints": {
+        "slug": "routes-and-endpoints",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/routes-and-endpoints.md"
+    },
+    "extending-the-rest-api/schema": {
+        "slug": "schema",
+        "parent": "extending-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/extending-the-rest-api/schema.md"
+    },
+    "reference/application-passwords": {
+        "slug": "application-passwords",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/application-passwords.md"
+    },
+    "reference/block-directory-items": {
+        "slug": "block-directory-items",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/block-directory-items.md"
+    },
+    "reference/block-pattern-categories": {
+        "slug": "block-pattern-categories",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/block-pattern-categories.md"
+    },
+    "reference/block-patterns": {
+        "slug": "block-patterns",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/block-patterns.md"
+    },
+    "reference/block-revisions": {
+        "slug": "block-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/block-revisions.md"
+    },
+    "reference/block-types": {
+        "slug": "block-types",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/block-types.md"
+    },
+    "reference/blocks": {
+        "slug": "blocks",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/blocks.md"
+    },
+    "reference/categories": {
+        "slug": "categories",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/categories.md"
+    },
+    "reference/comments": {
+        "slug": "comments",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/comments.md"
+    },
+    "reference/media": {
+        "slug": "media",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/media.md"
+    },
+    "reference/menu-locations": {
+        "slug": "menu-locations",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/menu-locations.md"
+    },
+    "reference/nav_menu_item-revisions": {
+        "slug": "nav_menu_item-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/nav_menu_item-revisions.md"
+    },
+    "reference/nav_menu_items": {
+        "slug": "nav_menu_items",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/nav_menu_items.md"
+    },
+    "reference/nav_menus": {
+        "slug": "nav_menus",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/nav_menus.md"
+    },
+    "reference/page-revisions": {
+        "slug": "page-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/page-revisions.md"
+    },
+    "reference/pages": {
+        "slug": "pages",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/pages.md"
+    },
+    "reference/pattern-directory-items": {
+        "slug": "pattern-directory-items",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/pattern-directory-items.md"
+    },
+    "reference/plugins": {
+        "slug": "plugins",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/plugins.md"
+    },
+    "reference/post-revisions": {
+        "slug": "post-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/post-revisions.md"
+    },
+    "reference/post-statuses": {
+        "slug": "post-statuses",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/post-statuses.md"
+    },
+    "reference/post-types": {
+        "slug": "post-types",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/post-types.md"
+    },
+    "reference/posts": {
+        "slug": "posts",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/posts.md"
+    },
+    "reference/rendered-blocks": {
+        "slug": "rendered-blocks",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/rendered-blocks.md"
+    },
+    "reference/search-results": {
+        "slug": "search-results",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/search-results.md"
+    },
+    "reference/settings": {
+        "slug": "settings",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/settings.md"
+    },
+    "reference/sidebars": {
+        "slug": "sidebars",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/sidebars.md"
+    },
+    "reference/tags": {
+        "slug": "tags",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/tags.md"
+    },
+    "reference/taxonomies": {
+        "slug": "taxonomies",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/taxonomies.md"
+    },
+    "reference/themes": {
+        "slug": "themes",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/themes.md"
+    },
+    "reference/users": {
+        "slug": "users",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/users.md"
+    },
+    "reference/widget-types": {
+        "slug": "widget-types",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/widget-types.md"
+    },
+    "reference/widgets": {
+        "slug": "widgets",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/widgets.md"
+    },
+    "reference/wp-site-health-tests": {
+        "slug": "wp-site-health-tests",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp-site-health-tests.md"
+    },
+    "reference/wp_global_styles": {
+        "slug": "wp_global_styles",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_global_styles.md"
+    },
+    "reference/wp_navigation-revisions": {
+        "slug": "wp_navigation-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_navigation-revisions.md"
+    },
+    "reference/wp_navigations": {
+        "slug": "wp_navigations",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_navigations.md"
+    },
+    "reference/wp_template-revisions": {
+        "slug": "wp_template-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_template-revisions.md"
+    },
+    "reference/wp_template_part-revisions": {
+        "slug": "wp_template_part-revisions",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_template_part-revisions.md"
+    },
+    "reference/wp_template_parts": {
+        "slug": "wp_template_parts",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_template_parts.md"
+    },
+    "reference/wp_templates": {
+        "slug": "wp_templates",
+        "parent": "reference",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/reference/wp_templates.md"
+    },
+    "using-the-rest-api/authentication": {
+        "slug": "authentication",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/authentication.md"
+    },
+    "using-the-rest-api/backbone-javascript-client": {
+        "slug": "backbone-javascript-client",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/backbone-javascript-client.md"
+    },
+    "using-the-rest-api/client-libraries": {
+        "slug": "client-libraries",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/client-libraries.md"
+    },
+    "using-the-rest-api/discovery": {
+        "slug": "discovery",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/discovery.md"
+    },
+    "using-the-rest-api/global-parameters": {
+        "slug": "global-parameters",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/global-parameters.md"
+    },
+    "using-the-rest-api/linking-and-embedding": {
+        "slug": "linking-and-embedding",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/linking-and-embedding.md"
+    },
+    "using-the-rest-api/pagination": {
+        "slug": "pagination",
+        "parent": "using-the-rest-api",
+        "markdown_source": "https://github.com/WP-API/docs/blob/master/using-the-rest-api/pagination.md"
+    }
+}

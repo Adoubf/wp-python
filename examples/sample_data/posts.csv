@@ -1,0 +1,2 @@
+title,content,status,category_ids,tag_ids,cover_image
+Hello CSV,<p>示例文章内容</p>,draft,1|2,3|4,examples/sample_data/sample_image.jpg
