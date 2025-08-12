@@ -63,3 +63,7 @@ examples/tmp_*
 # ====================
 .env
 .env.dev
+
+# other file
+README-REPO-NAME.md
+CLAUDE.md
