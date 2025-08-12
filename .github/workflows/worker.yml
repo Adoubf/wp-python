@@ -22,7 +22,7 @@ jobs:
       - name: Install Poetry
         uses: snok/install-poetry@v1
         with:
-          poetry-version: '2.1.0'
+          version: '2.1.0'
           virtualenvs-create: true
           virtualenvs-in-project: true
 
@@ -31,7 +31,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          poetry install
+          poetry lock --no-update
+          poetry install --with dev
 
       - name: Cache virtualenv
         uses: actions/cache@v4
@@ -40,7 +41,7 @@ jobs:
           key: venv-${{ runner.os }}-${{ hashFiles('poetry.lock') }}
           restore-keys: |
             venv-${{ runner.os }}-
-            
+
       - name: Lint (basic import check)
         run: |
           poetry run python -c "import wp_python; print('import ok, version=', wp_python.__version__)"
