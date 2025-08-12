@@ -16,16 +16,14 @@ dependencies = [
     "rich (>=14.1.0,<15.0.0)",
     "fastapi (>=0.116.1,<0.117.0)",
     "uvicorn[standard] (>=0.35.0,<0.36.0)",
-    "gunicorn (>=23.0.0,<24.0.0)"
+    "gunicorn (>=23.0.0,<24.0.0)",
+    "python-multipart (>=0.0.20,<0.0.21)"
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest >=8.4.1"
 ]
-
-[tool.poetry]
-packages = [{ include = "wp_python", from = "src" }]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
